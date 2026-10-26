@@ -85,3 +85,12 @@ Through this project, I developed practical experience in:
 ---
 
 **Key Excel Skills:** Excel Functions, PivotTables, Data Visualisation, VLOOKUP, SWITCH, SUMIF, AVERAGEIF, Filtering, Sorting, Conditional Formatting, Sales Analysis, Retail Analytics, Business Reporting.# Excel-Projects-Repo
+
+<img width="248" height="89" alt="image" src="https://github.com/user-attachments/assets/3aabafc0-8f34-47d2-81fa-049776eac9e6" />
+
+<img width="248" height="74" alt="image" src="https://github.com/user-attachments/assets/d4354ac1-c7f2-4a00-abe4-7956ea207c02" />
+
+<img width="247" height="97" alt="image" src="https://github.com/user-attachments/assets/83cdd502-2381-41c4-a690-e6f437e8f06d" />
+
+<img width="225" height="104" alt="image" src="https://github.com/user-attachments/assets/18a6503d-56f3-48e7-af39-603eba347aca" />
+
